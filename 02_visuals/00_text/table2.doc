@@ -1,0 +1,19 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx2592\clbrdrt\brdrs\cellx3168\clbrdrt\brdrs\cellx4608\clbrdrt\brdrs\cellx5472\clbrdrt\brdrs\cellx6480\clbrdrt\brdrs\cellx7344
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\qc (5)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2592\cellx3168\cellx4608\cellx5472\cellx6480\cellx7344
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx2592\clbrdrb\brdrs\cellx3168\clbrdrb\brdrs\cellx4608\clbrdrb\brdrs\cellx5472\clbrdrb\brdrs\cellx6480\clbrdrb\brdrs\cellx7344
+\ql VARIABLES\cell\qc N\cell\qc mean\cell\qc sd\cell\qc min\cell\qc max\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2592\cellx3168\cellx4608\cellx5472\cellx6480\cellx7344
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql dtopic106\cell\qc 106\cell\qc 30.79\cell\qc 24.21\cell\qc 0\cell\qc 89.45\cell\row
+\ql l_fb_ag\cell\qc 106\cell\qc 313.4\cell\qc 49.97\cell\qc 202.7\cell\qc 409.4\cell\row
+\ql l_uk_lifeexp\cell\qc 106\cell\qc 43.24\cell\qc 3.703\cell\qc 37.30\cell\qc 54.60\cell\row
+\ql l_uk_dmst_cnflct\cell\qc 106\cell\qc 0.0189\cell\qc 0.137\cell\qc 0\cell\qc 1\cell\row
+\ql l_uk_int_cnflct\cell\qc 106\cell\qc 75.47\cell\qc 43.23\cell\qc 0\cell\qc 100\cell\row
+\ql l_wst_int_cnflct\cell\qc 106\cell\qc 23.58\cell\qc 10.43\cell\qc 9.091\cell\qc 55.56\cell\row
+\ql std_scientization\cell\qc 106\cell\qc -4.31e-09\cell\qc 1.000\cell\qc -1.322\cell\qc 1.709\cell\row
+\ql programmatic\cell\qc 106\cell\qc -1.63e-08\cell\qc 1.000\cell\qc -1.269\cell\qc 1.338\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2592\clbrdrb\brdrs\cellx3168\clbrdrb\brdrs\cellx4608\clbrdrb\brdrs\cellx5472\clbrdrb\brdrs\cellx6480\clbrdrb\brdrs\cellx7344
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+}

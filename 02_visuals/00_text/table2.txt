@@ -1,0 +1,12 @@
+	(1)	(2)	(3)	(4)	(5)
+VARIABLES	N	mean	sd	min	max
+					
+dtopic106	106	30.79	24.21	0	89.45
+l_fb_ag	106	313.4	49.97	202.7	409.4
+l_uk_lifeexp	106	43.24	3.703	37.30	54.60
+l_uk_dmst_cnflct	106	0.0189	0.137	0	1
+l_uk_int_cnflct	106	75.47	43.23	0	100
+l_wst_int_cnflct	106	23.58	10.43	9.091	55.56
+std_scientization	106	-4.31e-09	1.000	-1.322	1.709
+programmatic	106	-1.63e-08	1.000	-1.269	1.338
+					

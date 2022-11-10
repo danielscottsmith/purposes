@@ -1,0 +1,17 @@
+	(1)	(2)	(3)	(4)	(5)
+VARIABLES	N	mean	sd	min	max
+					
+wst_census_ever	106	58.48	27.10	18.18	95.65
+wst_agency	106	63.17	27.57	21.05	100
+wst_yrbkpub	106	26.57	28.92	0	77.27
+wst_n_unis	106	671.7	410.9	167	1,497
+uk_agency	106	0.736	0.443	0	1
+uk_yrbkpub	106	0.575	0.497	0	1
+uk_census_all	106	6.443	3.181	1	12
+committees	106	25.34	20.73	0	62
+fellows	106	479.6	353.0	0	1,063
+stats_journals	106	619.6	644.1	11	2,151
+soc_journals	106	229.5	251.9	4	834
+all_societies	106	29.50	16.78	2	48
+int_meetings	106	6.132	6.979	0	23
+					
