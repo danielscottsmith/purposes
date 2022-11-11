@@ -11,7 +11,7 @@ __This replication package is still under development pending peer review.__ The
 ## Getting Started
 
 1. Clone this depository.  
-1. Download [`data` folder](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X5X4JQ) from Dataverse. 
+1. Download [`data` folder](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KKBCIX) from Dataverse. 
 1. Place the downloaded `data` folder in directory root: `00_replication/00_data/`
 1. Launch Stata and change directory to root: `00_replication/`
 1. Change the global variable `DIR` at the top of `00_an_new.do` to root: `00_replication/`
