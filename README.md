@@ -1,7 +1,6 @@
 # Replication Package
 >#### Visions of Deliverance: Social Scientization, Functionalism, and the Expansive Purposiveness of Education in Nineteenth-century British Parliamentary Politics.
 
----
 __This replication package is still under development pending peer review.__ The main results reported in the [paper](http://danielscottsmith.com/vita/r4) can nonetheless be replicated. A few cautionary notes before proceeding: 
 1. The data, raw and processed, must be first downloaded from dataverse. This package doesn't yet replicate the data processing, so you need to download both processed and raw data at the link below.
 1. The code currently sprawls across Jupyter, R, and Stata and its organization does not yet transparently express the data-analytic procedures and sequence to reproduce all processed data and results.
